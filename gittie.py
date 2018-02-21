@@ -6,14 +6,16 @@ def introduce():
 
 
 def joke():
-    print("hahahaha")    
+    print("hahahaha")
 
 
 def add(a, b):
     return a+b
 
-def shout():
-    print("I am Hungryyyyyy!")
 
 def test():
-    print("different")    
+    print("different")
+
+
+def shout(message):
+    print(message.upper())
