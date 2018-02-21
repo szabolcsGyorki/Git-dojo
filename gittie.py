@@ -14,3 +14,6 @@ def add(a, b):
 
 def shout():
     print("I am Hungryyyyyy!")
+
+def test():
+    print("different")    
